@@ -23,3 +23,7 @@ The following AIPs apply to work across all APIs generally.
 ### Guidance
 
 {% include aip-listing.html start=120 end=999 %}
+
+### Customer Segment Secific
+
+{% include aip-listing.html start=9000 end=9999 %}
