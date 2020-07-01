@@ -4,7 +4,7 @@
 
 ## Overview
 
-AIP DAN stands for **API Improvement Proposal**, which is a design document
+AIP stands for **API Improvement Proposal**, which is a design document
 providing high-level, concise documentation for API development. The goal is
 for these documents to serve as the source of truth for API-related
 documentation at Google and the way API teams discuss and come to consensus on
