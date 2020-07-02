@@ -8,9 +8,9 @@ js:
 permalink: /aog
 ---
 
-# Actions on Google AIPs
+# Actions on TR AIPs
 
-The following AIPs apply to work on APIs in Actions on Google.
+The following AIPs apply to work on APIs in Actions on TR.
 
 ### Guidance
 
